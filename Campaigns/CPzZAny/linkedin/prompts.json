@@ -1,0 +1,59 @@
+{
+  "campaignId": "CPzZAny",
+  "platform": "linkedin",
+  "objective": "Create a polished LinkedIn visual set for an enterprise AI case study about Tencent Binhai Exhibition Hall, emphasizing a unified interaction entry point, multimodal interaction, and long-term operational scalability.",
+  "images": [
+    {
+      "name": "cover",
+      "scene": "A premium enterprise exhibition hall interior with a strong central brand anchor, giant immersive display walls, a star-like ceiling lighting array, and a refined futuristic atmosphere that communicates scale, trust, and technological maturity.",
+      "image_ref": "assets/image_03.jpg",
+      "style": "realistic enterprise interior photography, premium B2B case study visual, Tencent-like blue tone, symmetrical composition, cinematic but credible, immersive lighting, high-end technology showroom, polished architectural photography",
+      "negative_prompt": "cartoon, fantasy, cyberpunk nightclub, exaggerated neon overload, distorted perspective, deformed architecture, low resolution, blurry logo area, cluttered foreground, gimmicky sci-fi props, people blocking the main scene, excessive text overlay, poster design style",
+      "aspect_ratio": "16:9",
+      "usage": "LinkedIn cover image",
+      "focus": "Establish brand trust, enterprise scale, and case-study credibility",
+      "reference_images": [
+        "assets/image_03.jpg"
+      ]
+    },
+    {
+      "name": "entry-point",
+      "scene": "A high-tech exhibition hall entry area centered around a unified interactive installation, with radiating light elements, spatial depth, and a welcoming intelligent interface presence that signals the beginning of a connected visitor journey.",
+      "image_ref": "assets/image_02.jpg",
+      "style": "real-world exhibition photography, immersive but restrained technology aesthetic, clean spatial storytelling, enterprise innovation center, blue-green controlled lighting, wide-angle interior shot, premium corporate environment",
+      "negative_prompt": "consumer electronics store, gaming arcade, overly playful colors, cartoon mascot emphasis, chaotic signage, distorted walls, low-detail lighting, fantasy portal effects, cheap event booth look, crowd clutter, excessive saturation",
+      "aspect_ratio": "16:9",
+      "usage": "Body image 1",
+      "focus": "Unified interaction entry point",
+      "reference_images": [
+        "assets/image_02.jpg"
+      ]
+    },
+    {
+      "name": "interaction-journey",
+      "scene": "A sleek exhibition corridor with multiple digital display points integrated along the visitor path, expressing a natural and continuous interaction journey where enterprise content unfolds fluidly through space.",
+      "image_ref": "assets/image_04.jpg",
+      "style": "architectural interior photography, understated futuristic corporate lighting, clean lines, guided visitor flow, immersive enterprise showroom, realistic environment, blue-purple accent lighting, professional case-study documentation",
+      "negative_prompt": "empty retail mall, hospital corridor, messy reflections, warped screens, low-end trade show booth, heavy fog, dramatic cinematic characters, fantasy holograms everywhere, motion blur, noisy image, tacky sci-fi effects",
+      "aspect_ratio": "16:9",
+      "usage": "Body image 2",
+      "focus": "Natural multimodal interaction embedded in visitor flow",
+      "reference_images": [
+        "assets/image_04.jpg"
+      ]
+    },
+    {
+      "name": "scalable-space",
+      "scene": "A complete intelligent exhibition environment with integrated brand wall, large multimedia displays, reflective flooring, and spatial continuity, conveying a system that can keep evolving with future content and enterprise narratives.",
+      "image_ref": "assets/image_05.jpg",
+      "style": "premium corporate showroom photography, realistic exhibition environment, long-form B2B storytelling visual, elegant blue lighting, spacious composition, controlled reflections, enterprise-grade architectural image",
+      "negative_prompt": "empty luxury hallway only, hotel lobby feel, nightclub ambience, over-stylized reflections, distorted branding, low-detail screens, exaggerated CGI, chaotic composition, consumer ad look, oversharpened image, posterized lighting",
+      "aspect_ratio": "16:9",
+      "usage": "Body image 3",
+      "focus": "Long-term operational scalability and continuous content evolution",
+      "reference_images": [
+        "assets/image_05.jpg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "campaignId": "C2eJmSy",
+  "platform": "xiaohongshu",
+  "vi_standard": {
+    "primary_color": "corporate blue",
+    "style": "minimalist B2B",
+    "lighting": "45-degree side light, soft ambient",
+    "forbidden": ["oversaturated", "cartoon", "neon"]
+  },
+  "images": [
+    {
+      "name": "埃菲尔铁塔同框封面",
+      "scene": "一位亚洲面孔年轻女性游客站在美拍机前完成拍摄，美拍机真实设备银灰色机身与竖屏清晰可见，画面呈现她与深圳世界之窗埃菲尔铁塔虚拟同框的惊艳效果，背景是晴朗蓝天下的铁塔景观，突出「不用挤也能拍大片」的旅行打卡体验。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png",
+        "assets/深圳世界之窗_埃菲尔铁塔.jpg"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png",
+        "assets/深圳世界之窗_埃菲尔铁塔.jpg"
+      ],
+      "style": "lifestyle travel photography, natural daylight, vibrant but not oversaturated, clean composition, tourist destination aesthetic, authentic travel moment capture",
+      "negative_prompt": "distorted product shape, wrong device proportion, low resolution, blurry screen, cartoon, oversaturated, neon colors, cluttered background, extra limbs, warped perspective, fake looking合成痕迹",
+      "aspect_ratio": "3:4",
+      "purpose": "封面图 - 埃菲尔铁塔同框效果展示"
+    },
+    {
+      "name": "美拍机产品外观",
+      "scene": "美拍机S1真实设备以侧面造型为主体，银灰色一体机机身与竖向屏幕比例清晰准确，放置在深圳世界之窗景区环境中，背景融入主题公园元素，一位亚洲面孔游客正走向设备，画面突出产品的科技感与景区场景的适配性。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "style": "lifestyle product photography, natural outdoor lighting, clean composition, tourist destination setting, modern tech aesthetic, authentic scene integration",
+      "negative_prompt": "distorted device, wrong proportion, low resolution, cartoon, oversaturated, neon colors, cluttered background, unrealistic placement, blurry details",
+      "aspect_ratio": "3:4",
+      "purpose": "产品展示图 - 美拍机外观与景区环境融合"
+    },
+    {
+      "name": "金字塔打卡场景",
+      "scene": "一位亚洲面孔游客通过美拍机与金字塔背景合成合影，美拍机真实设备置于画面前景，屏幕显示拍摄界面，背景呈现仿佛置身埃及吉萨高原的沉浸感，突出多景点虚拟切换能力，整体画面自然不生硬。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "style": "lifestyle travel photography, warm desert lighting, cinematic composition, cultural landmark aesthetic, natural blending of subject and background",
+      "negative_prompt": "distorted face, deformed device, low resolution, messy composition, cartoon, oversaturated, neon colors, fake合成痕迹, blurry output, unnatural lighting",
+      "aspect_ratio": "3:4",
+      "purpose": "场景展示图 - 金字塔虚拟打卡效果"
+    },
+    {
+      "name": "拍摄过程记录",
+      "scene": "一位亚洲面孔年轻女性站在美拍机前摆姿势准备拍摄，美拍机真实设备竖屏清晰可见，屏幕实时显示拍摄画面与操作界面，背景是世界之窗景区环境，突出操作简单、秒级出片的轻松体验感。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "style": "lifestyle candid photography, natural daylight, dynamic composition, authentic interaction moment, tourist destination atmosphere, clean tech interface visible",
+      "negative_prompt": "distorted screen content, deformed machine, low resolution, cartoon, oversaturated, neon colors, cluttered background, unrealistic interaction, blurry interface",
+      "aspect_ratio": "3:4",
+      "purpose": "体验展示图 - 拍摄过程与操作界面"
+    },
+    {
+      "name": "成片效果展示",
+      "scene": "展示美拍机生成的最终照片效果，一位亚洲面孔游客与埃菲尔铁塔的虚拟合影成片，AI美颜后的自然质感与虚拟背景的无缝融合，照片呈现专业旅拍水准，突出出片率高、适合分享的社交属性。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png"
+      ],
+      "style": "professional travel portrait photography, golden hour lighting, polished composition, high-quality output aesthetic, social media ready, natural skin retouching",
+      "negative_prompt": "overprocessed face, fake looking合成, low resolution, cartoon, oversaturated, neon colors, unnatural skin texture, blurry details, distorted proportions",
+      "aspect_ratio": "3:4",
+      "purpose": "效果展示图 - 最终成片质量与分享价值"
+    },
+    {
+      "name": "园区分布场景",
+      "scene": "深圳世界之窗景区内多个位置展示美拍机设备，银灰色机身与景区环境和谐融合，不同主题区都有亚洲面孔游客在使用设备，突出便利性与覆盖度，呈现「走到哪拍到哪」的无缝体验。",
+      "image_ref": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png",
+        "assets/深圳世界之窗_埃菲尔铁塔.jpg"
+      ],
+      "reference_images": [
+        "/Users/fa/Documents/LinkSeaAI_OpenClaw/Products/ai-beauty-camera/images/美拍机-新（侧面）.png",
+        "assets/深圳世界之窗_埃菲尔铁塔.jpg"
+      ],
+      "style": "wide lifestyle photography, natural daylight, spacious composition, theme park atmosphere, multiple touchpoints visible, convenient accessibility",
+      "negative_prompt": "distorted devices, wrong scale, low resolution, cartoon, oversaturated, neon colors, empty scene, unrealistic distribution, cluttered signage",
+      "aspect_ratio": "3:4",
+      "purpose": "覆盖展示图 - 园区内多点位分布"
+    }
+  ]
+}
