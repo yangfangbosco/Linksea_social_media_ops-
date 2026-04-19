@@ -1,0 +1,39 @@
+# OS
+.DS_Store
+
+# Secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# 运营产物（按需求不入库）
+Campaigns/
+Projects/
+
+# 产品图片不入库（保留 description.md 和 product.json）
+Products/*/images/
+Products/**/*.png
+Products/**/*.jpg
+Products/**/*.jpeg
+Products/**/*.webp
+Products/**/*.gif
